@@ -25,3 +25,13 @@ User the following to add all the files to track
 Make the first commit using following command
 
 > ```git commit -m "Initial Commit"```
+
+## 3. Create a new branch
+
+You can create a new branch using the following command
+
+> ```git branch <branch_name>```
+
+After creating the new branch you must checkout to that branch using ```git checkout ...``` command
+
+> ```git checkout <branch_name>```

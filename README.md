@@ -11,3 +11,17 @@ This is a crash course about git and github. Once this tutorial is finished you 
 Before we do anything, let's initialize a local git repository using the following command.
 
 > ```git init```
+
+## 2. Add the relevent files and make your first commit
+
+You can tell git to track a file using following command
+
+> ```git add <file_name>```
+
+User the following to add all the files to track
+
+> ```git add *```
+
+Make the first commit using following command
+
+> ```git commit -m "Initial Commit"```
